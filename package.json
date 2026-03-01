@@ -1,5 +1,5 @@
 {
-    "name": "mem-stash",
+    "name": "memstashjs",
     "version": "1.0.0",
     "description": "Performance-first in-memory cache with TTL support for Node.js and Browser.",
     "main": "index.js",

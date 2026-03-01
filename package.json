@@ -1,0 +1,15 @@
+{
+    "name": "mem-stash",
+    "version": "1.0.0",
+    "description": "Performance-first in-memory cache with TTL support for Node.js and Browser.",
+    "main": "index.js",
+    "keywords": [
+        "cache",
+        "memory",
+        "ttl",
+        "stash",
+        "performance"
+    ],
+    "author": "Antigravity",
+    "license": "MIT"
+}

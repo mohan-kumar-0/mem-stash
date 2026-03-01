@@ -1,15 +1,35 @@
 {
     "name": "memstashjs",
-    "version": "1.0.0",
-    "description": "Performance-first in-memory cache with TTL support for Node.js and Browser.",
+    "version": "1.0.1",
+    "description": "Performance-first in-memory cache with TTL (time-to-live) support. Works in Node.js and all modern browsers. Zero dependencies, blazing fast O(1) lookups using native Map.",
     "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mohan-kumar-0/mem-stash.git"
+    },
+    "homepage": "https://github.com/mohan-kumar-0/mem-stash#readme",
+    "bugs": {
+        "url": "https://github.com/mohan-kumar-0/mem-stash/issues"
+    },
     "keywords": [
         "cache",
-        "memory",
+        "memory-cache",
         "ttl",
-        "stash",
-        "performance"
+        "in-memory",
+        "store",
+        "key-value",
+        "lru",
+        "performance",
+        "memoize",
+        "session-cache",
+        "browser-cache",
+        "node-cache",
+        "fast-cache",
+        "expiry"
     ],
-    "author": "Antigravity",
+    "author": "mohan-kumar-0",
     "license": "MIT"
 }
